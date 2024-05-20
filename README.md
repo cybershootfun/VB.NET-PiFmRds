@@ -23,3 +23,6 @@ With all components in place and directories configured, you're all set to get s
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/c08a3875-b517-4d0a-804b-0ca4e209b403)
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/0d6bfa17-eb80-432c-92b9-539db96d9a11)
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/e66afc6b-7fa5-48ed-96f7-cec647952d53)
+
+Successfully tested on Raspberry Pi Zero W for transmitting.
+Also, it works seamlessly with my mom's old radio for receiving :p
