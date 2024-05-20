@@ -13,6 +13,13 @@ Live temperature meter (start/stop)
 Reboot or shut down the Raspberry Pi
 Transfer audio files securely using SCP
 
+Installation Guide:
+
+Start by downloading PiFmRds from here(https://github.com/ChristopheJacquet/PiFmRds).
+Next, acquire the main.py file, which can be found at python/main.py (for temperature monitoring).
+Then, download the VB.NET project and customize the directories to fit your setup (including PiFmRds location, Python code location, etc.).
+With all components in place and directories configured, you're all set to get started!
+
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/c08a3875-b517-4d0a-804b-0ca4e209b403)
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/0d6bfa17-eb80-432c-92b9-539db96d9a11)
 ![image](https://github.com/cybershootfun/VB.NET-PiFmRds/assets/49350716/e66afc6b-7fa5-48ed-96f7-cec647952d53)
