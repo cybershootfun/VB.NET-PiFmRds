@@ -1,0 +1,33 @@
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\bin\Debug\radiopifm.exe
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\bin\Debug\radiopifm.pdb
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\bin\Debug\radiopifm.xml
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.Form1.resources
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.Resources.resources
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.GenerateResource.Cache
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.exe
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.xml
+c:\users\cybershoot\documents\visual studio 2010\Projects\radiopifm\radiopifm\obj\x86\Debug\radiopifm.pdb
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.exe
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.pdb
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.AssemblyReference.cache
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.Form1.resources
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.Resources.resources
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.GenerateResource.cache
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.CoreCompileInputs.cache
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\radiopifm.exe
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\radiopifm.pdb
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\radiopifm.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Renci.SshNet.dll
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Renci.SshNet.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.CopyComplete
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\radiopifm.exe.config
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CyberShoot\source\repos\radiopifm\radiopifm\obj\x86\Debug\radiopifm.vbproj.SuggestedBindingRedirects.cache
