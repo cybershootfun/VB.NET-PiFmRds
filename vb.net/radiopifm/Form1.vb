@@ -124,7 +124,7 @@ Public Class Form1
     Private Sub TextBox1_Click(sender As Object, e As EventArgs) Handles TextBox1.Click
         Dim openFileDialog1 As New OpenFileDialog()
         openFileDialog1.Title = "Select WAV File"
-        openFileDialog1.Filter = "WAV files (*.wav)|*.wav" ' Filter to show only WAV files
+        openFileDialog1.Filter = "WAV files (*.wav)|*.wav" 
         openFileDialog1.RestoreDirectory = True
         If openFileDialog1.ShowDialog() = DialogResult.OK Then
             TextBox1.Text = openFileDialog1.FileName
